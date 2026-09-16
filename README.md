@@ -70,19 +70,20 @@ I am based in **Hamburg**, currently completing my formal training as a **Fachin
 ### 📈 GITHUB STATS
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MusawarQaderi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusawarQaderi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MusawarQaderi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusawarQaderi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="Langs" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MusawarQaderi&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MusawarQaderi&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" width="98%" />
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=32,20,12&height=2&section=footer" width="100%" />
-<br>
-<small>© 2026 Musawar Qaderi • Built with code & automation</small>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=32,20,12&height=2&section=footer" width="100%" />
+  <br>
+  <small>© 2026 Musawar Qaderi • Built with code & automation</small>
 </div>
