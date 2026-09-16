@@ -56,18 +56,6 @@
   </picture>
 </div>
 
----
-
----
-
-### 🎮 GITHUB_SNAKE_ANIMATION
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MusawarQaderi/MusawarQaderi/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
-</div>
-
----
-
 ### 📊 SYSTEM_ANALYTICS // METRICS
 
 <div align="center">
