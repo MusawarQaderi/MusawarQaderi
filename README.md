@@ -46,8 +46,6 @@
 
 ### 🎮 GITHUB_SNAKE_ANIMATION
 
-> *Die Snake frisst sich durch meine Commit-Kästchen (aktualisiert sich vollautomatisch).*
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MusawarQaderi/MusawarQaderi/output/github-contribution-grid-snake-dark.svg">
