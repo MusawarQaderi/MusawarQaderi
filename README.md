@@ -21,7 +21,7 @@
 
 ---
 
-### ⚡ ABOUT ME // PROFILE_SUMMARY
+### ⚡ ABOUT ME
 
 > *"Automating infrastructure, building modern web applications, and scaling systems."*
 
@@ -29,7 +29,7 @@ I am based in **Hamburg**, currently completing my formal training as a **Fachin
 
 ---
 
-### 🚀 FEATURED PROJECTS // HIGHLIGHTS
+### 🚀 FEATURED PROJECTS 
 
 * **[FootballHub](https://github.com/MusawarQaderi/footballhub)**
   * *Tech:* PHP, JavaScript, CSS, Relational Databases
@@ -37,7 +37,7 @@ I am based in **Hamburg**, currently completing my formal training as a **Fachin
 
 ---
 
-### 🧰 TECH_STACK // CORE TOOLS
+### 🧰 TECHSTACK
 
 <div align="center">
 
@@ -67,7 +67,7 @@ I am based in **Hamburg**, currently completing my formal training as a **Fachin
 
 ---
 
-### 📈 METRICS // GITHUB STATS
+### 📈 GITHUB STATS
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MusawarQaderi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" width="48%" />
