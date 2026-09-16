@@ -77,5 +77,61 @@
   <br><br>
   <i>"Automate everything, keep building, keep deploying."</i>
   <br><br>
+
+
+  <div align="center">
+
+# Musawar Qaderi
+### Fachinformatiker für Systemintegration | Asp. Cloud & DevOps Engineer
+
+<br>
+
+<p align="center">
+  <a href="https://musawarqaderi.com"><img src="https://img.shields.io/badge/Website-musawarqaderi.com-1e293b?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/musawarqaderi"><img src="https://img.shields.io/badge/LinkedIn-musawarqaderi-0284c7?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Hamburg-334155?style=flat-square&logo=map&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Umschulung_%40_CBM-0f172a?style=flat-square&logo=codeforces&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+### About Me
+
+- 🔭 **Aktuell:** In der Umschulung zum Fachinformatiker für Systemintegration mit klarem Fokus auf Cloud- und DevOps-Infrastrukturen.
+- 💻 **Fokus:** Linux-Umgebungen, Automatisierung, Infrastructure as Code und moderne Webentwicklung (u.a. *FootballHub*).
+- ⚽ **Ausgleich:** Leidenschaftlicher Amateur-Fußballer aus Hamburg.
+
+---
+
+### Tech Stack
+
+| Kategorie | Technologien & Tools |
+| :--- | :--- |
+| **Sprachen** | `PHP` `JavaScript` `TypeScript` `Python` |
+| **Infrastruktur & DevOps** | `Linux` `Docker` `Git` `GitHub` |
+| **Umgebungen** | `VS Code` `Eclipse` |
+
+---
+
+### GitHub Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MusawarQaderi&show_icons=true&theme=nord&hide_border=true&bg_color=0b0f19&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusawarQaderi&layout=compact&theme=nord&hide_border=true&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8" alt="Langs" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MusawarQaderi&theme=nord&hide_border=true&background=0b0f19&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideNums=94a3b8&dates=94a3b8" alt="Streak" width="98%" />
+</div>
+
+---
+
+<div align="center">
+  <small><i>"Automate everything, keep building, keep improving."</i></small>
+</div>
   <img src="https://komarev.com/ghpvc/?username=MusawarQaderi&style=flat-square&color=00ffcc" alt="Visitor Count" />
 </div>
