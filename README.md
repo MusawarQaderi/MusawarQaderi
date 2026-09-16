@@ -1,124 +1,132 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=200&section=header&text=MUSAWAR%20QADERI&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Angehender%20Fachinformatiker%20Systemintegration&descSize=16&descColor=38bdf8&animation=fadeIn" width="100%" alt="Musawar Qaderi Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=200&section=header&text=MUSAWAR%20QADERI&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=IT%20Systems%20Integration%20Trainee%20(Vocational%20Retraining)&descSize=16&descColor=38bdf8&animation=fadeIn" width="100%" alt="Musawar Qaderi Header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=Umschulung+zum+Fachinformatiker+Systemintegration;Lernt+Cloud+%26+DevOps+Grundlagen;Baut+eigene+Projekte+im+Selbststudium;Basiert+in+Hamburg+%F0%9F%87%A9%F0%9F%87%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=IT+Systems+Integration+Trainee;Transitioning+to+Cloud+%26+DevOps;Building+Full-Stack+Projects;Based+in+Hamburg+%F0%9F%87%A9%F0%9F%87%AA)](https://git.io/typing-svg)
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Praktikum%20%26%20Werkstudent-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_INTERNSHIPS_%26_WORKING_STUDENT_ROLES-1E293B?style=for-the-badge&logo=codesandbox&logoColor=38bdf8" />
 </p>
 
 <p align="center">
-  <a href="https://musawarqaderi.com"><img src="https://img.shields.io/badge/Website-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/musawarqaderi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/MusawarQaderi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://musawarqaderi.com"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/musawarqaderi"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/MusawarQaderi?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 </div>
 
+---
+
+### 👨‍💻 SYSTEM_OVERVIEW // ABOUT_ME
+
+I am currently undergoing vocational retraining as an **IT Systems Integration Specialist** in Hamburg (expected graduation: **January 2028**) and am actively scaling my profile toward **Cloud and DevOps Engineering**. Parallel to my formal training, I build my own projects to gain hands-on experience with real-world technologies—ranging from web applications and multiplayer systems to embedded programming.
+
+> 💡 *I am actively looking for **internships, working student positions, and training projects** in System Integration, Cloud Architecture, or DevOps.*
+
+---
+
+### 🎯 CURRENT_LEARNING_FOCUS
+
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/🔵_IN_TRAINING-1E293B?style=for-the-badge&fontColor=white" />
+  <p><b>Networking & System Integration &nbsp;•&nbsp; Linux Server Administration &nbsp;•&nbsp; OOP (Java/C++) & UML</b></p>
+  
+  <br>
+  <img src="https://img.shields.io/badge/🟡_SELF--STUDY-1E293B?style=for-the-badge&fontColor=white" />
+  <p><b>Docker & Containerization &nbsp;•&nbsp; Git Workflows & CI/CD Basics</b></p>
+
+  <br>
+  <img src="https://img.shields.io/badge/⚪_PLANNED_NEXT-1E293B?style=for-the-badge&fontColor=white" />
+  <p><b>Cloud Fundamentals (AWS/Azure)</b></p>
+  <br>
+</div>
+
+---
+
+### 🚀 FEATURED_PROJECTS
+
+<!-- Keine HTML-Tabellen mehr! Hier nutzen wir den Vertical Card Feed. -->
+
 <br>
 
-## 👋 Über mich
-
-Seit **Januar 2026** befinde ich mich in der Umschulung zum **Fachinformatiker für Systemintegration** in Hamburg (voraussichtlicher Abschluss: **Januar 2028**) und arbeite gezielt darauf hin, mich Richtung **Cloud- und DevOps-Engineering** zu entwickeln. Parallel zur Ausbildung baue ich eigene Projekte, um praktische Erfahrung mit realen Technologien zu sammeln — von Webanwendungen über Multiplayer-Systeme bis hin zu Embedded-Programmierung.
-
-Ich bin offen für **Praktika, Werkstudentenstellen und Ausbildungsprojekte** im Bereich Systemintegration, Cloud oder DevOps.
+<a href="https://github.com/MusawarQaderi/footballhub">
+  <img src="https://img.shields.io/badge/⚽_FootballHub-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
+</a>
+> **Role-Based Team Management Web Application** <br>
+> Features secure login, customized dashboards for coaches & players, extensive statistics, and tactical line-up planning tools.
+> <br><br>
+> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
 <br>
 
-## 🌱 Aktueller Lernfokus
+<a href="https://github.com/MusawarQaderi/sabotage-canvas">
+  <img src="https://img.shields.io/badge/🎨_Sabotage_Canvas-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
+</a>
+> **Imposter-Style Multiplayer Party Game** <br>
+> Players draw in turn-based rounds, while the imposter only knows the broad category and must remain undetected by the rest of the lobby.
+> <br><br>
+> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Multiplayer-FF5722?style=flat-square&logo=socket.io&logoColor=white" />
+
+<br>
+
+<a href="https://github.com/MusawarQaderi/arcade-project">
+  <img src="https://img.shields.io/badge/🕹️_Arcade_Project-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
+</a>
+> **Embedded Retro Arcade Console** <br>
+> Built on a Raspberry Pi Pico 2W with an OLED display and joystick controls. Features clean software architecture separating hardware, engine, and UI logic.
+> <br><br>
+> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MicroPython-2B3A42?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Embedded-000000?style=flat-square&logo=arduino&logoColor=white" />
+
+<br>
+
+<a href="https://github.com/MusawarQaderi/portfolio">
+  <img src="https://img.shields.io/badge/🌐_Portfolio_Repository-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
+</a>
+> **Personal Cloud & DevOps Portfolio** <br>
+> The central hub documenting my professional journey, technical skills, and hands-on projects as I transition into system integration and infrastructure.
+> <br><br>
+> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+
+<br>
+
+---
+
+### ⚙️ CORE_TECHNOLOGIES
 
 <div align="center">
 
-| Bereich | Status |
-| :--- | :--- |
-| Netzwerktechnik & Systemintegration | 🔵 In Ausbildung |
-| Linux Server-Administration | 🔵 In Ausbildung |
-| Docker & Containerisierung | 🟡 Selbststudium |
-| Git-Workflows & CI/CD Basics | 🟡 Selbststudium |
-| Cloud Grundlagen (AWS/Azure) | ⚪ Als Nächstes geplant |
+#### Languages & Scripting
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,ts,py,java,cpp" />
+  </a>
+</p>
+
+#### Infrastructure & Tools
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,docker,git,githubactions" />
+  </a>
+</p>
+
+#### Environments & Design
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/UML-000000?style=flat-square&logo=uml&logoColor=white" />
+</p>
 
 </div>
 
-<br>
+---
 
-## 🚀 Projekte
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [🌐 Portfolio](https://github.com/MusawarQaderi/portfolio)
-Persönliche Portfolio-Website mit Fokus auf Cloud & DevOps — dokumentiert Werdegang, technische Fähigkeiten und praktische Projekte.
-
-`TypeScript`
-
-</td>
-<td width="50%" valign="top">
-
-### [⚽ FootballHub](https://github.com/MusawarQaderi/footballhub)
-Web-App zur Teamverwaltung (SV Blankenese) mit Login, rollenbasierten Dashboards für Trainer & Spieler, Statistiken und Aufstellungsplanung.
-
-`PHP` `JavaScript` `CSS`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [🎨 Sabotage Canvas](https://github.com/MusawarQaderi/sabotage-canvas)
-Multiplayer-Partyspiel im Imposter-Stil — Spieler zeichnen rundenbasiert, der Imposter kennt nur die Kategorie und muss unentdeckt bleiben.
-
-`JavaScript` `Multiplayer`
-
-</td>
-<td width="50%" valign="top">
-
-### [🕹️ Arcade Project](https://github.com/MusawarQaderi/arcade-project)
-Arcade-Konsole für Raspberry Pi Pico 2W mit OLED-Display und Joystick-Steuerung. Saubere Trennung von Hardware, Engine und UI.
-
-`Python` `MicroPython` `Embedded`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Sprachen & Scripting**
-<br>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-
-<br><br>
-
-**Infrastruktur & Tools**
-<br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-
-<br><br>
-
-**Umgebungen**
-<br>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" />
-
-</div>
-
-<br>
-
-## 📊 GitHub Statistik
+### 📈 GITHUB_ANALYTICS
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=MusawarQaderi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
@@ -132,8 +140,9 @@ Arcade-Konsole für Raspberry Pi Pico 2W mit OLED-Display und Joystick-Steuerung
 <br>
 
 <div align="center">
-  <em>Offen für Praktika, Werkstudentenstellen und Projekte im Bereich Systemintegration, Cloud & DevOps — gerne connecten!</em>
+  <em>Always open to discussing internships, working student roles, and opportunities in System Integration, Cloud & DevOps — feel free to connect!</em>
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=100&section=footer" width="100%" />
-  <sub>© 2026 Musawar Qaderi • Built with code & automation</sub>
+  <br>
+  <sub>© 2026 Musawar Qaderi • Engineered in Hamburg</sub>
 </div>
