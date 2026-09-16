@@ -49,47 +49,58 @@ I am currently undergoing vocational retraining as an **IT Systems Integration S
 
 ### 🚀 FEATURED_PROJECTS
 
-<!-- Keine HTML-Tabellen mehr! Hier nutzen wir den Vertical Card Feed. -->
-
 <br>
 
 <a href="https://github.com/MusawarQaderi/footballhub">
   <img src="https://img.shields.io/badge/⚽_FootballHub-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
 </a>
-> **Role-Based Team Management Web Application** <br>
-> Features secure login, customized dashboards for coaches & players, extensive statistics, and tactical line-up planning tools.
-> <br><br>
-> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<p>
+  <b>Role-Based Team Management Web Application</b><br>
+  Features secure login, customized dashboards for coaches & players, extensive statistics, and tactical line-up planning tools.
+  <br>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
 
 <br>
 
 <a href="https://github.com/MusawarQaderi/sabotage-canvas">
   <img src="https://img.shields.io/badge/🎨_Sabotage_Canvas-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
 </a>
-> **Imposter-Style Multiplayer Party Game** <br>
-> Players draw in turn-based rounds, while the imposter only knows the broad category and must remain undetected by the rest of the lobby.
-> <br><br>
-> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Multiplayer-FF5722?style=flat-square&logo=socket.io&logoColor=white" />
+<p>
+  <b>Imposter-Style Multiplayer Party Game</b><br>
+  Players draw in turn-based rounds, while the imposter only knows the broad category and must remain undetected by the rest of the lobby.
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Multiplayer-FF5722?style=flat-square&logo=socket.io&logoColor=white" />
+</p>
 
 <br>
 
 <a href="https://github.com/MusawarQaderi/arcade-project">
   <img src="https://img.shields.io/badge/🕹️_Arcade_Project-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
 </a>
-> **Embedded Retro Arcade Console** <br>
-> Built on a Raspberry Pi Pico 2W with an OLED display and joystick controls. Features clean software architecture separating hardware, engine, and UI logic.
-> <br><br>
-> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MicroPython-2B3A42?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Embedded-000000?style=flat-square&logo=arduino&logoColor=white" />
+<p>
+  <b>Embedded Retro Arcade Console</b><br>
+  Built on a Raspberry Pi Pico 2W with an OLED display and joystick controls. Features clean software architecture separating hardware, engine, and UI logic.
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MicroPython-2B3A42?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded-000000?style=flat-square&logo=arduino&logoColor=white" />
+</p>
 
 <br>
 
 <a href="https://github.com/MusawarQaderi/portfolio">
   <img src="https://img.shields.io/badge/🌐_Portfolio_Repository-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
 </a>
-> **Personal Cloud & DevOps Portfolio** <br>
-> The central hub documenting my professional journey, technical skills, and hands-on projects as I transition into system integration and infrastructure.
-> <br><br>
-> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<p>
+  <b>Personal Cloud & DevOps Portfolio</b><br>
+  The central hub documenting my professional journey, technical skills, and hands-on projects as I transition into system integration and infrastructure.
+  <br>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+</p>
 
 <br>
 
