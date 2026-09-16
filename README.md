@@ -1,6 +1,6 @@
 <div align="center">
 
-# MUSAWAQADERI
+# MUSAWARQADERI
 ### 🚀 Fachinformatiker für Systemintegration | Future Cloud & DevOps Engineer
 
 [![Website](https://img.shields.io/badge/Website-musawarqaderi.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://musawarqaderi.com)
