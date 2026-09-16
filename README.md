@@ -48,9 +48,6 @@
 
 > *Die Snake frisst sich durch meine Commit-Kästchen (aktualisiert sich vollautomatisch).*
 
-
-### 🎮 GITHUB_SNAKE_ANIMATION
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MusawarQaderi/MusawarQaderi/output/github-contribution-grid-snake-dark.svg">
@@ -61,17 +58,31 @@
 
 ---
 
+---
+
+### 🎮 GITHUB_SNAKE_ANIMATION
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MusawarQaderi/MusawarQaderi/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
+</div>
+
+---
+
 ### 📊 SYSTEM_ANALYTICS // METRICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MusawarQaderi&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=ff007f" alt="Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusawarQaderi&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=00ffcc" alt="Langs" width="48%" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=MusawarQaderi&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=ff007f" alt="Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusawarQaderi&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=00ffcc" alt="Langs" />
+  </p>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MusawarQaderi&theme=dracula&hide_border=true&background=0d1117&ring=ff007f&fire=00ffcc&currStreakLabel=00ffcc" alt="Streak" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MusawarQaderi&theme=dracula&hide_border=true&background=0d1117&ring=ff007f&fire=00ffcc&currStreakLabel=00ffcc" alt="Streak" width="100%" />
 </div>
 
 ---
