@@ -1,21 +1,21 @@
 <div align="center">
 
-<!-- Modernes, ultrascharfes Cyber-Minimal-Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,30,40&height=140&section=header&text=MUSAWAR%20QADERI&fontSize=38&fontColor=00ffcc&fontAlignY=50&letterSpacing=4&animation=fadeIn" width="100%" />
+<!-- High-Tech Minimalistischer Header mit scharfem Gradienten -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,5,10,15,20&height=160&section=header&text=MUSAWAR%20QADERI&fontSize=40&fontColor=ffffff&fontAlignY=50&letterSpacing=6&animation=scaleIn" width="100%" />
 
-<!-- 🔥 Der Live-Terminal-Effekt mit sauberen Neon-Akzenten -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFCC&lines=Systemintegration+@+Hamburg;Cloud+&+DevOps+Pipeline+Engineer;Automation,+Linux+&+Infrastructure;Fullstack+Dev+%26+FootballHub&font=Fira+Code&size=18&width=700&height=40)](https://git.io/typing-svg)
+<!-- Live Terminal-Stream für den ultimativen Tech-Vibe -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=38BDF8&lines=SYSTEM_INTEGRATION_SPECIALIST;SCALING_TO_CLOUD_&_DEVOPS;AUTOMATING_INFRASTRUCTURE_@_HAMBURG;BUILDING_APPS_(@FootballHub)&font=Fira+Code&size=17&width=720&height=40)](https://git.io/typing-svg)
 
 <br>
 
-<!-- Visuelle Bento-Box-Badges für den ersten Eindruck -->
+<!-- Visuelle Status-Badges als Cyber-Grid -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-READY_FOR_DEPLOY-00ffcc?style=for-the-badge&logo=rocket&logoColor=black" />
-  <img src="https://img.shields.io/badge/LOCATION-HAMBURG-blueviolet?style=for-the-badge&logo=map&logoColor=white" />
-  <img src="https://img.shields.io/badge/TARGET-CLOUD_%2F_DEVOPS-ff007f?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/NODE-HAMBURG_DE-0284c7?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/PIPELINE-ACTIVE-10b981?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/TARGET-CLOUD_%2F_DEVOPS-6366f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-<!-- Deine gewohnten, sauberen Link-Buttons -->
+<!-- Die gewohnten Link-Buttons -->
 <p align="center">
   <a href="https://musawarqaderi.com"><img src="https://img.shields.io/badge/website-musawarqaderi.com-0284c7?style=flat&logo=google-chrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/musawarqaderi"><img src="https://img.shields.io/badge/linkedin-musawarqaderi-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -26,13 +26,15 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="22" height="22" style="vertical-align: middle;" /> SYSTEM_OVERVIEW // CORE_MISSION
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="22" height="22" style="vertical-align: middle;" /> ARCHITECTURE // IDENTITY
+
+> *"Infrastructure isn't just configured—it's engineered to scale autonomously."*
 
 <div align="center">
 
-| ⚡ Current Status | 🎯 Primary Objective | 💡 Engineering Mindset |
+| ⚙️ SYSTEM CORE | 🌐 DEPLOYMENT ZONE | ⚡ MISSION VECTOR |
 | :--- | :--- | :--- |
-| Upskilling in Systems Integration @ Hamburg | Transitioning into **Cloud & DevOps Engineering** | *„Automate everything, eliminate friction, scale seamlessly.“* |
+| **Fachinformatiker** System Integration | **Hamburg**, Germany (SAGA / Local Infrastructure) | Transitioning into **Cloud & DevOps Engineering** |
 
 </div>
 
