@@ -21,23 +21,25 @@
 
 ---
 
-### ⚡ ABOUT ME
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="22" height="22" style="vertical-align: middle;" /> PROFILE_SUMMARY
 
 > *"Automating infrastructure, building modern web applications, and scaling systems."*
 
-I am based in **Hamburg**, currently completing my formal training as a **Fachinformatiker für Systemintegration** while actively transitioning into **Cloud & DevOps Engineering**. My core focus lies in Linux environments, infrastructure automation, scripting, and building reliable web architectures.
+I am based in **Hamburg**, currently completing my formal training as a **Fachinformatiker für Systemintegration** while actively transitioning into **Cloud & DevOps Engineering**. My day-to-day focuses on Linux environments, infrastructure automation, scripting, and building reliable web architectures.
+
+* **Currently diving deep into:** Linux automation, containerization with Docker, and preparing for advanced cloud infrastructures.
 
 ---
 
-### 🚀 FEATURED PROJECTS 
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="22" height="22" style="vertical-align: middle;" style="filter: invert(1);" /> FEATURED_PROJECTS
 
 * **[FootballHub](https://github.com/MusawarQaderi/footballhub)**
   * *Tech:* PHP, JavaScript, CSS, Relational Databases
-  * *Description:* A web-based application built for team management (featuring role-based dashboards for trainers and players, statistics, and tactical line-up selectors).
+  * *Description:* A web-based application built for team management, featuring role-based dashboards for trainers and players, statistics, and tactical line-up selectors.
 
 ---
 
-### 🧰 TECHSTACK
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="22" height="22" style="vertical-align: middle;" /> CORE_TECHNOLOGIES
 
 <div align="center">
 
@@ -67,7 +69,7 @@ I am based in **Hamburg**, currently completing my formal training as a **Fachin
 
 ---
 
-### 📈 GITHUB ACTIVITY & METRICS
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="22" height="22" style="vertical-align: middle;" /> GITHUB_ACTIVITY
 
 <div align="center">
   <img src="https://img.shields.io/badge/Total_Contributions-144-00ffcc?style=for-the-badge&logo=github&logoColor=black" />
@@ -75,9 +77,10 @@ I am based in **Hamburg**, currently completing my formal training as a **Fachin
   <img src="https://img.shields.io/badge/Main_Focus-Cloud_%2F_DevOps-38bdf8?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
-<br>
+---
 
 <div align="center">
+  <p><i>Always open to discussing Cloud, DevOps, or System Integration opportunities. Feel free to connect!</i></p>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=32,20,12&height=2&section=footer" width="100%" />
   <br>
   <small>© 2026 Musawar Qaderi • Built with code & automation</small>
