@@ -1,31 +1,10 @@
 <div align="center">
 
-<!-- Eigener, cleaner SVG-Header als interaktives Control-Panel -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160" width="100%" style="background: #090d16; border-radius: 12px; border: 1px solid #1e293b;">
-  <!-- Dezenter Grid-Hintergrund -->
-  <defs>
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1e293b" stroke-width="0.5" opacity="0.5"/>
-    </pattern>
-  </defs>
-  <rect width="800" height="160" fill="url(#grid)" />
-  
-  <!-- Akzent-Linie oben -->
-  <rect x="0" y="0" width="800" height="3" fill="#38bdf8" />
+<!-- Ein professioneller, hochauflösender SVG-Header mit modernem Farbverlauf -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=MUSAWAR%20QADERI&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Systems%20Integration%20|%20Cloud%20&%20DevOps&descSize=15&descColor=38bdf8" width="100%" />
 
-  <!-- Name & Titel -->
-  <text x="40" y="65" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="32" font-weight="700" letter-spacing="2">MUSAWAR QADERI</text>
-  <text x="40" y="95" fill="#38bdf8" font-family="Fira Code, monospace" font-size="14" font-weight="500">&gt; SYSTEM INTEGRATION // CLOUD &amp; DEVOPS</text>
-
-  <!-- Live Status Badge im SVG -->
-  <rect x="40" y="115" width="130" height="24" rx="12" fill="#0369a1" opacity="0.3" />
-  <circle cx="55" cy="127" r="4" fill="#38bdf8" />
-  <text x="68" y="131" fill="#7dd3fc" font-family="Fira Code, monospace" font-size="11" font-weight="600">HAMBURG, DE</text>
-
-  <rect x="180" y="115" width="160" height="24" rx="12" fill="#065f46" opacity="0.3" />
-  <circle cx="195" cy="127" r="4" fill="#34d399" />
-  <text x="208" y="131" fill="#6ee7b7" font-family="Fira Code, monospace" font-size="11" font-weight="600">OPEN TO WORK</text>
-</svg>
+<!-- Der Live-Typing-Stream für die Dynamik -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=38BDF8&lines=Infrastructure+as+Code+&+Linux;Transitioning+to+Cloud+&+DevOps;Building+Web-Apps+(@FootballHub);Based+in+Hamburg+🇩🇪&font=Fira+Code&size=17&width=680&height=40)](https://git.io/typing-svg)
 
 <br>
 
