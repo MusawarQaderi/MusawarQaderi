@@ -67,20 +67,15 @@ I am based in **Hamburg**, currently completing my formal training as a **Fachin
 
 ---
 
-### 📈 GITHUB STATS
+### 📈 GITHUB ACTIVITY & METRICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MusawarQaderi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusawarQaderi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="Langs" width="48%" />
+  <img src="https://img.shields.io/badge/Total_Contributions-144-00ffcc?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Current_Streak-3_Days-ff007f?style=for-the-badge&logo=fire&logoColor=white" />
+  <img src="https://img.shields.io/badge/Main_Focus-Cloud_%2F_DevOps-38bdf8?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MusawarQaderi&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" width="98%" />
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=32,20,12&height=2&section=footer" width="100%" />
