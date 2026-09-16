@@ -1,64 +1,32 @@
 <div align="center">
 
-# MUSAWAR QADERI
-### 🚀 Fachinformatiker für Systemintegration | Future Cloud & DevOps Engineer
+<!-- Ultimatives Cyberpunk Banner mit fließendem Neon-Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=240&section=header&text=MUSAWAR%20QADERI&fontSize=50&fontColor=00ffcc&fontAlignY=35&desc=Fachinformatiker%20für%20Systemintegration%20|%20Cloud%20&%20DevOps&descSize=18&descColor=a29bfe&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300FFFF&lines=Linux+und+Cloud+Infrastruktur;Fullstack+Webentwicklung;Automatisierung;SQL+und+NoSQL+Datenbanken&font=Fira+Code&size=22&width=500&height=70)](https://git.io/typing-svg)
+<!-- Live Typing Effekt -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFCC&lines=Systemintegration+@+CBM;Cloud+&+DevOps+Enthusiast;Linux+Automation+&+Scripting;Fullstack+Dev+%26+FootballHub&font=Fira+Code&size=20&width=650&height=50)](https://git.io/typing-svg)
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ffcc?style=for-the-badge&logo=codesandbox&logoColor=black" />
+  <img src="https://img.shields.io/badge/LOCATION-HAMBURG-blueviolet?style=for-the-badge&logo=map&logoColor=white" />
+  <img src="https://img.shields.io/badge/FOCUS-CLOUD%2FDEVOPS-ff007f?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/TARGET-AUTOMATION-yellow?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-[![Website](https://img.shields.io/badge/Website-musawarqaderi.com-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://musawarqaderi.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-musawarqaderi-4169E1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/musawarqaderi)
-[![Projekte](https://img.shields.io/badge/Projekte-Alle_anzeigen-FF6347?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MusawarQaderi?tab=repositories)
-</div>
-
----
-
-## 💻 Meine Mission
-
-* **💡 Fokus:** Aktuell in der Umschulung zum **Fachinformatiker für Systemintegration** in Hamburg. Mein Ziel: Der Einstieg in die Welt von **Cloud & DevOps**.
-* **⚽ Leidenschaft:** Wenn ich nicht gerade Systeme automatisiere oder Web-Apps (wie *FootballHub*) baue, schlägt mein Herz für den Fußball.
-* **🛠️ Antrieb:** Ich liebe saubere, skalierbare Infrastrukturen und die Automatisierung von Prozessen. *Infrastructure as Code* ist meine Welt.
-
----
-
-## 🛠️ Mein Technologie-Stack
-
-<div align="center">
-
-### ⚙️ Sprachen & Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### ☁️ Infrastruktur, Cloud & DevOps
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+[![Website](https://img.shields.io/badge/Website-musawarqaderi.com-00ffcc?style=for-the-badge&logo=google-chrome&logoColor=black)](https://musawarqaderi.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-musawarqaderi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/musawarqaderi)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistiken & Activity Graph
+### ⚡ SYSTEM_INFO // ROOT@MUSA:~#
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MusawarQaderi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=171a21" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusawarQaderi&layout=compact&theme=tokyonight&hide_border=true&bg_color=171a21" alt="Top Languages" width="48%">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats-daily?username=MusawarQaderi&theme=tokyonight&bg_color=171a21" alt="Daily Commit Activity" width="98%" />
-</div>
-
----
-
-<div align="center">
-  <i>"Continuously learning, building, and integrating."</i>
-  <br>
-  <img src="https://profile-counter.glitch.me/MusawarQaderi/count.svg" alt="Visitor Count">
-</div>
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│ [✓] Host: Linux / Cloud Infrastructure Environment                     │
+│ [✓] Current Role: Umschulung zum Fachinformatiker für Systemintegration│
+│ [✓] Career Goal: Cloud & DevOps Engineering                            │
+│ [✓] Core Passion: Infrastructure as Code, Scripting & Automation       │
+│ [✓] Side Quest: Web-Development (FootballHub) & Amateur-Fußball        │
+└────────────────────────────────────────────────────────────────────────┘
