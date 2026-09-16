@@ -73,6 +73,7 @@ I am based in **Hamburg**, currently completing my formal training as a **Fachin
   <img src="https://github-readme-stats.vercel.app/api?username=MusawarQaderi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusawarQaderi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Langs" width="48%" />
 </div>
+
 <br>
 
 <div align="center">
