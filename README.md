@@ -1,14 +1,12 @@
 <div align="center">
 
 <!-- Modernes, abgerundetes Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,20,32&height=180&section=header&text=MUSAWAR%20QADERI&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=System%20Integration%20|%20Cloud%20&%20DevOps&descSize=15&descColor=94a3b8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,20,32&height=180&section=header&text=MUSAWAR%20QADERI&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=System%20Integration%20|%20Cloud%20&%20DevOps&descSize=15&descColor=a29bfe" width="100%" />
 
-<!-- Dezente, professionelle Metadaten-Leiste statt klobiger Badges -->
-<p align="center">
-  📍 Hamburg &nbsp;&bull;&nbsp; 🚀 Umschulung Systemintegration &rarr; Cloud/DevOps &nbsp;&bull;&nbsp; 🟢 Status: Open to Opportunities
-</p>
+<!-- 🔥 Live-Typing Effekt (Bewegt sich dynamisch und bringt sofort Leben rein) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=38BDF8&lines=Infrastructure+as+Code+&+Linux;Transitioning+to+Cloud+&+DevOps;Building+Web-Apps+(@FootballHub);Based+in+Hamburg+🇩🇪&font=Fira+Code&size=18&width=650&height=40)](https://git.io/typing-svg)
 
-<!-- Schlichte, moderne Social-Links als flache Buttons -->
+<!-- Die gewohnten, sauberen Link-Buttons -->
 <p align="center">
   <a href="https://musawarqaderi.com"><img src="https://img.shields.io/badge/website-musawarqaderi.com-0284c7?style=flat&logo=google-chrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/musawarqaderi"><img src="https://img.shields.io/badge/linkedin-musawarqaderi-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -21,11 +19,11 @@
 
 ### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="22" height="22" style="vertical-align: middle;" /> PROFILE_SUMMARY
 
-> *"Automating infrastructure, building modern web applications, and scaling systems."*
+> *"Automating systems, scaling infrastructure, and building what's next."*
 
-I am based in **Hamburg**, currently completing my formal training as a **Fachinformatiker für Systemintegration** while actively transitioning into **Cloud & DevOps Engineering**. My day-to-day focuses on Linux environments, infrastructure automation, scripting, and building reliable web architectures.
+I’m a system integration specialist based in **Hamburg**, currently scaling up toward **Cloud & DevOps Engineering**. I don't just configure environments—I automate them. Whether it's streamlining Linux architectures, writing robust scripts, or building full-stack web applications like *FootballHub*, I focus on clean code and reliable infrastructure.
 
-* **Currently diving deep into:** Linux automation, containerization with Docker, and preparing for advanced cloud infrastructures.
+* **Current Mission:** Mastering containerization, CI/CD pipelines, and cloud-native workflows.
 
 ---
 
