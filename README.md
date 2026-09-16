@@ -1,10 +1,17 @@
 <div align="center">
 
-<!-- Modernes, abgerundetes Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,20,32&height=180&section=header&text=MUSAWAR%20QADERI&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=System%20Integration%20|%20Cloud%20&%20DevOps&descSize=15&descColor=a29bfe" width="100%" />
+<!-- Ultimatives, animiertes Neon-Cyber-Banner mit Bewegung -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=220&section=header&text=MUSAWAR%20QADERI&fontSize=48&fontColor=00ffcc&fontAlignY=38&desc=Cloud%20&%20DevOps%20Engineer%20in%20Training%20|%20System%20Integration&descSize=16&descColor=a29bfe&animation=fadeIn" width="100%" />
 
-<!-- 🔥 Live-Typing Effekt (Bewegt sich dynamisch und bringt sofort Leben rein) -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=38BDF8&lines=Infrastructure+as+Code+&+Linux;Transitioning+to+Cloud+&+DevOps;Building+Web-Apps+(@FootballHub);Based+in+Hamburg+🇩🇪&font=Fira+Code&size=18&width=650&height=40)](https://git.io/typing-svg)
+<!-- 🔥 Der fließende Live-Typing-Effekt mit Neon-Akzent -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFCC&lines=Systemintegration+@+Hamburg;Infrastructure+Automation+&+Linux;Cloud+&+DevOps+Enthusiast;Fullstack+Dev+%26+FootballHub&font=Fira+Code&size=19&width=700&height=45)](https://git.io/typing-svg)
+
+<!-- Visuelle, dynamische Status-Leiste mit leuchtenden Akzenten -->
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEPLOYMENT-00ffcc?style=for-the-badge&logo=codesandbox&logoColor=black" />
+  <img src="https://img.shields.io/badge/BASE-HAMBURG_DE-blueviolet?style=for-the-badge&logo=map&logoColor=white" />
+  <img src="https://img.shields.io/badge/TARGET-CLOUD_%2F_DEVOPS-ff007f?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 <!-- Die gewohnten, sauberen Link-Buttons -->
 <p align="center">
@@ -17,13 +24,17 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="22" height="22" style="vertical-align: middle;" /> PROFILE_SUMMARY
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="24" height="24" style="vertical-align: middle;" /> SYSTEM_CORE // OVERVIEW
 
-> *"Automating systems, scaling infrastructure, and building what's next."*
+<div align="center">
 
-I’m a system integration specialist based in **Hamburg**, currently scaling up toward **Cloud & DevOps Engineering**. I don't just configure environments—I automate them. Whether it's streamlining Linux architectures, writing robust scripts, or building full-stack web applications like *FootballHub*, I focus on clean code and reliable infrastructure.
+| 🚀 Mission | 🛠️ Core Stack | ⚽ Off-Grid |
+| :--- | :--- | :--- |
+| Transitioning to **Cloud & DevOps** via Systems Integration in Hamburg. | **Linux, Docker, Git, Automation, PHP/TS** | Amateur footballer & builder of **FootballHub**. |
 
-* **Current Mission:** Mastering containerization, CI/CD pipelines, and cloud-native workflows.
+</div>
+
+---
 
 ---
 
