@@ -1,19 +1,21 @@
 <div align="center">
 
-<!-- Ultimatives, animiertes Neon-Cyber-Banner mit Bewegung -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=220&section=header&text=MUSAWAR%20QADERI&fontSize=48&fontColor=00ffcc&fontAlignY=38&desc=Cloud%20&%20DevOps%20Engineer%20in%20Training%20|%20System%20Integration&descSize=16&descColor=a29bfe&animation=fadeIn" width="100%" />
+<!-- Modernes, ultrascharfes Cyber-Minimal-Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,30,40&height=140&section=header&text=MUSAWAR%20QADERI&fontSize=38&fontColor=00ffcc&fontAlignY=50&letterSpacing=4&animation=fadeIn" width="100%" />
 
-<!-- 🔥 Der fließende Live-Typing-Effekt mit Neon-Akzent -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFCC&lines=Systemintegration+@+Hamburg;Infrastructure+Automation+&+Linux;Cloud+&+DevOps+Enthusiast;Fullstack+Dev+%26+FootballHub&font=Fira+Code&size=19&width=700&height=45)](https://git.io/typing-svg)
+<!-- 🔥 Der Live-Terminal-Effekt mit sauberen Neon-Akzenten -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFCC&lines=Systemintegration+@+Hamburg;Cloud+&+DevOps+Pipeline+Engineer;Automation,+Linux+&+Infrastructure;Fullstack+Dev+%26+FootballHub&font=Fira+Code&size=18&width=700&height=40)](https://git.io/typing-svg)
 
-<!-- Visuelle, dynamische Status-Leiste mit leuchtenden Akzenten -->
+<br>
+
+<!-- Visuelle Bento-Box-Badges für den ersten Eindruck -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEPLOYMENT-00ffcc?style=for-the-badge&logo=codesandbox&logoColor=black" />
-  <img src="https://img.shields.io/badge/BASE-HAMBURG_DE-blueviolet?style=for-the-badge&logo=map&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-READY_FOR_DEPLOY-00ffcc?style=for-the-badge&logo=rocket&logoColor=black" />
+  <img src="https://img.shields.io/badge/LOCATION-HAMBURG-blueviolet?style=for-the-badge&logo=map&logoColor=white" />
   <img src="https://img.shields.io/badge/TARGET-CLOUD_%2F_DEVOPS-ff007f?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-<!-- Die gewohnten, sauberen Link-Buttons -->
+<!-- Deine gewohnten, sauberen Link-Buttons -->
 <p align="center">
   <a href="https://musawarqaderi.com"><img src="https://img.shields.io/badge/website-musawarqaderi.com-0284c7?style=flat&logo=google-chrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/musawarqaderi"><img src="https://img.shields.io/badge/linkedin-musawarqaderi-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -24,15 +26,17 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="24" height="24" style="vertical-align: middle;" /> SYSTEM_CORE // OVERVIEW
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="22" height="22" style="vertical-align: middle;" /> SYSTEM_OVERVIEW // CORE_MISSION
 
 <div align="center">
 
-| 🚀 Mission | 🛠️ Core Stack | ⚽ Off-Grid |
+| ⚡ Current Status | 🎯 Primary Objective | 💡 Engineering Mindset |
 | :--- | :--- | :--- |
-| Transitioning to **Cloud & DevOps** via Systems Integration in Hamburg. | **Linux, Docker, Git, Automation, PHP/TS** | Amateur footballer & builder of **FootballHub**. |
+| Upskilling in Systems Integration @ Hamburg | Transitioning into **Cloud & DevOps Engineering** | *„Automate everything, eliminate friction, scale seamlessly.“* |
 
 </div>
+
+---
 
 ---
 
