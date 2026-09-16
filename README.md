@@ -3,18 +3,16 @@
 <!-- Modernes, abgerundetes Banner -->
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,20,32&height=180&section=header&text=MUSAWAR%20QADERI&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=System%20Integration%20|%20Cloud%20&%20DevOps&descSize=15&descColor=94a3b8" width="100%" />
 
-<!-- Quick-Info Badges -->
+<!-- Dezente, professionelle Metadaten-Leiste statt klobiger Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-UPKILLING_TO_DEVOPS-0f172a?style=for-the-badge&logo=codesandbox&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/LOCATION-HAMBURG-1e293b?style=for-the-badge&logo=map&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/FOCUS-CLOUD_%2F_AUTOMATION-1e293b?style=for-the-badge&logo=docker&logoColor=38bdf8" />
+  📍 Hamburg &nbsp;&bull;&nbsp; 🚀 Umschulung Systemintegration &rarr; Cloud/DevOps &nbsp;&bull;&nbsp; 🟢 Status: Open to Opportunities
 </p>
 
-<!-- Link-Kästen / Buttons -->
+<!-- Schlichte, moderne Social-Links als flache Buttons -->
 <p align="center">
-  <a href="https://musawarqaderi.com"><img src="https://img.shields.io/badge/WEBSITE-musawarqaderi.com-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/musawarqaderi"><img src="https://img.shields.io/badge/LINKEDIN-musawarqaderi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/MusawarQaderi?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://musawarqaderi.com"><img src="https://img.shields.io/badge/website-musawarqaderi.com-0284c7?style=flat&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/musawarqaderi"><img src="https://img.shields.io/badge/linkedin-musawarqaderi-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/MusawarQaderi?tab=repositories"><img src="https://img.shields.io/badge/github-projects-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
 </div>
