@@ -48,11 +48,14 @@
 
 > *Die Snake frisst sich durch meine Commit-Kästchen (aktualisiert sich vollautomatisch).*
 
+
+### 🎮 GITHUB_SNAKE_ANIMATION
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MusawarQaderi/MusawarQaderi/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MusawarQaderi/MusawarQaderi/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/MusawarQaderi/MusawarQaderi/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/MusawarQaderi/MusawarQaderi/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
   </picture>
 </div>
 
