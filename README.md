@@ -20,13 +20,63 @@
 
 ---
 
-### ⚡ SYSTEM_INFO // ROOT@MUSA:~#
+### ⚡ SYSTEM_INFO // PROFILE_OVERVIEW
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│ [✓] Host: Linux / Cloud Infrastructure Environment                     │
-│ [✓] Current Role: Umschulung zum Fachinformatiker für Systemintegration│
-│ [✓] Career Goal: Cloud & DevOps Engineering                            │
-│ [✓] Core Passion: Infrastructure as Code, Scripting & Automation       │
-│ [✓] Side Quest: Web-Development (FootballHub) & Amateur-Fußball        │
-└────────────────────────────────────────────────────────────────────────┘
+- **Host Environment:** Linux & Cloud Infrastructure
+- **Current Role:** Umschulung zum Fachinformatiker für Systemintegration
+- **Career Goal:** Cloud & DevOps Engineering
+- **Core Passion:** Infrastructure as Code, Scripting & Automation
+- **Side Quest:** Web-Development (*FootballHub*) & Amateur-Fußball
+
+---
+
+### 🛠️ CORE_TECHNOLOGIES // TECH_STACK
+
+<div align="center">
+
+| Domain | Tech Stack & Tools |
+| :--- | :--- |
+| **Languages** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Infrastructure & DevOps** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Environment** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) |
+
+</div>
+
+---
+
+### 🎮 GITHUB_SNAKE_ANIMATION
+
+> *Die Snake frisst sich durch meine Commit-Kästchen (aktualisiert sich vollautomatisch).*
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MusawarQaderi/MusawarQaderi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MusawarQaderi/MusawarQaderi/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/MusawarQaderi/MusawarQaderi/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+### 📊 SYSTEM_ANALYTICS // METRICS
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MusawarQaderi&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=ff007f" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusawarQaderi&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=00ffcc" alt="Langs" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MusawarQaderi&theme=dracula&hide_border=true&background=0d1117&ring=ff007f&fire=00ffcc&currStreakLabel=00ffcc" alt="Streak" width="98%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,11,6&height=4&section=footer" width="100%" />
+  <br><br>
+  <i>"Automate everything, keep building, keep deploying."</i>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=MusawarQaderi&style=flat-square&color=00ffcc" alt="Visitor Count" />
+</div>
