@@ -98,7 +98,7 @@ My journey in tech began with studying Computer Science, where I built a strong 
 </p>
 <!-- Hier ist das eingebundene GIF -->
 <p align="center">
-  <img src="arcade-ezgif.com-video-to-gif-converter.gif" width="400" alt="Arcade Console Gameplay" style="border-radius: 8px;" />
+  <img src="arcade-ezgif.com-video-to-gif-converter.gif" width="250" alt="Arcade Console Gameplay" style="border-radius: 8px;" />
 </p>
 ---
 
