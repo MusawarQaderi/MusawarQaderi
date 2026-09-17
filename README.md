@@ -100,7 +100,6 @@ My journey in tech began with studying Computer Science, where I built a strong 
 <p align="center">
   <img src="arcade-ezgif.com-video-to-gif-converter.gif" width="250" alt="Arcade Console Gameplay" style="border-radius: 8px;" />
 </p>
----
 
 ### ⚡ BEYOND_THE_TERMINAL // OFF_SCREEN
 
