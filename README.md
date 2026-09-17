@@ -28,7 +28,7 @@ My journey in tech began with studying Computer Science, where I built a strong 
 
 🌍 **Languages:** German (Native) &nbsp;•&nbsp; Dari (Native) &nbsp;•&nbsp; English (Fluent) &nbsp;•&nbsp; Spanish (Basic)
 
-> 💡 *I am actively looking for **internships, working student positions, and training projects** in System Integration, Cloud Architecture, or DevOps.*
+> 💡 *I am actively looking for **internships, working student positions and training projects** in System Integration, Cloud Architecture or DevOps.*
 
 ---
 
