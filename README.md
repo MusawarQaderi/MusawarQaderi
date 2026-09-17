@@ -142,11 +142,6 @@ When I'm not writing code or configuring systems, you can usually find me doing 
 ### 📈 GITHUB_ANALYTICS
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-tau-orpin.vercel.app/api?username=MusawarQaderi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-tau-orpin.vercel.app/api/top-langs/?username=MusawarQaderi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MusawarQaderi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
