@@ -26,6 +26,8 @@ I am currently undergoing vocational retraining as an **IT Systems Integration S
 
 My journey in tech began with studying Computer Science, where I built a strong foundation in **theoretical computer science, computer architecture, Java, and UML**. Today, I combine that theoretical knowledge with hands-on system administration. Whether I'm building custom PCs for friends and family, troubleshooting complex IT issues, or writing full-stack code, I love solving both hardware and software puzzles.
 
+🌍 **Languages:** German (Native) &nbsp;•&nbsp; Dari (Native) &nbsp;•&nbsp; English (Fluent) &nbsp;•&nbsp; Spanish (Basic)
+
 > 💡 *I am actively looking for **internships, working student positions, and training projects** in System Integration, Cloud Architecture, or DevOps.*
 
 ---
@@ -62,6 +64,9 @@ My journey in tech began with studying Computer Science, where I built a strong 
   <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Multiplayer-FF5722?style=flat-square&logo=socket.io&logoColor=white" />
+  <a href="https://sabotage-canvas.onrender.com">
+    <img src="https://img.shields.io/badge/🟢_Live_Demo-1E293B?style=flat-square" />
+  </a>
 </p>
 
 <br>
