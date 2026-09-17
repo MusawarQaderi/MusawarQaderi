@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=200&section=header&text=MUSAWAR%20QADERI&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=IT%20Systems%20Integration%20Trainee%20(Vocational%20Retraining)&descSize=16&descColor=38bdf8&animation=fadeIn" width="100%" alt="Musawar Qaderi Header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=IT+Systems+Integration+Trainee;Transitioning+to+Cloud+%26+DevOps;Building+Full-Stack+Projects;Based+in+Hamburg+%F0%9F%87%A9%F0%9F%87%AA)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=IT+Systems+Integration+Trainee;Transitioning+to+Cloud+%26+DevOps;Hardware+Enthusiast+%26+Full-Stack+Dev;Based+in+Hamburg+%F0%9F%87%A9%F0%9F%87%AA)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <br>
 
@@ -22,7 +22,9 @@
 
 ### 👨‍💻 SYSTEM_OVERVIEW // ABOUT_ME
 
-I am currently undergoing vocational retraining as an **IT Systems Integration Specialist** in Hamburg (expected graduation: **January 2028**) and am actively scaling my profile toward **Cloud and DevOps Engineering**. Parallel to my formal training, I build my own projects to gain hands-on experience with real-world technologies—ranging from web applications and multiplayer systems to embedded programming.
+I am currently undergoing vocational retraining as an **IT Systems Integration Specialist** in Hamburg (expected graduation: **January 2028**), bridging the gap between infrastructure and software development. 
+
+My journey in tech began with studying Computer Science, where I built a strong foundation in **theoretical computer science, computer architecture, Java, and UML**. Today, I combine that theoretical knowledge with hands-on system administration. Whether I'm building custom PCs for friends and family, troubleshooting complex IT issues, or writing full-stack code, I love solving both hardware and software puzzles.
 
 > 💡 *I am actively looking for **internships, working student positions, and training projects** in System Integration, Cloud Architecture, or DevOps.*
 
@@ -33,15 +35,15 @@ I am currently undergoing vocational retraining as an **IT Systems Integration S
 <div align="center">
   <br>
   <img src="https://img.shields.io/badge/🔵_IN_TRAINING-1E293B?style=for-the-badge&fontColor=white" />
-  <p><b>Networking & System Integration &nbsp;•&nbsp; Linux Server Administration &nbsp;•&nbsp; OOP (Java/C++) & UML</b></p>
+  <p><b>Operating Systems & Architecture &nbsp;•&nbsp; Python & PHP/SQL &nbsp;•&nbsp; Networking & Linux</b></p>
   
   <br>
-  <img src="https://img.shields.io/badge/🟡_SELF--STUDY-1E293B?style=for-the-badge&fontColor=white" />
-  <p><b>Docker & Containerization &nbsp;•&nbsp; Git Workflows & CI/CD Basics</b></p>
+  <img src="https://img.shields.io/badge/🟡_ACTIVE_PROJECTS-1E293B?style=for-the-badge&fontColor=white" />
+  <p><b>Deploying Web Apps via Render &nbsp;•&nbsp; Game Development (Unreal Engine) &nbsp;•&nbsp; Hardware Tinkering</b></p>
 
   <br>
   <img src="https://img.shields.io/badge/⚪_PLANNED_NEXT-1E293B?style=for-the-badge&fontColor=white" />
-  <p><b>Cloud Fundamentals (AWS/Azure)</b></p>
+  <p><b>Cloud Fundamentals (AWS/Azure) &nbsp;•&nbsp; CI/CD Pipelines</b></p>
   <br>
 </div>
 
@@ -51,29 +53,29 @@ I am currently undergoing vocational retraining as an **IT Systems Integration S
 
 <br>
 
+<a href="https://github.com/MusawarQaderi/sabotage-canvas">
+  <img src="https://img.shields.io/badge/🎨_Sabotage_Canvas-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
+</a>
+<p>
+  <b>Browser-Based Multiplayer Party Game</b><br>
+  An imposter-style drawing game built to be the perfect Discord hangout game. Currently working on deploying the full stack via Render for live multiplayer lobbies.
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Multiplayer-FF5722?style=flat-square&logo=socket.io&logoColor=white" />
+</p>
+
+<br>
+
 <a href="https://github.com/MusawarQaderi/footballhub">
   <img src="https://img.shields.io/badge/⚽_FootballHub-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
 </a>
 <p>
   <b>Role-Based Team Management Web Application</b><br>
-  Features secure login, customized dashboards for coaches & players, extensive statistics, and tactical line-up planning tools.
+  Features secure login, customized dashboards for coaches & players, and tactical line-up tools. Built during my web development training module.
   <br>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
-
-<br>
-
-<a href="https://github.com/MusawarQaderi/sabotage-canvas">
-  <img src="https://img.shields.io/badge/🎨_Sabotage_Canvas-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
-</a>
-<p>
-  <b>Imposter-Style Multiplayer Party Game</b><br>
-  Players draw in turn-based rounds, while the imposter only knows the broad category and must remain undetected by the rest of the lobby.
-  <br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Multiplayer-FF5722?style=flat-square&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5/CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
 <br>
@@ -83,26 +85,26 @@ I am currently undergoing vocational retraining as an **IT Systems Integration S
 </a>
 <p>
   <b>Embedded Retro Arcade Console</b><br>
-  Built on a Raspberry Pi Pico 2W with an OLED display and joystick controls. Features clean software architecture separating hardware, engine, and UI logic.
+  Built on a Raspberry Pi Pico 2W with an OLED display and joystick controls. Developed to deepen my understanding of hardware-software interaction.
   <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MicroPython-2B3A42?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded-000000?style=flat-square&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardware-000000?style=flat-square&logo=raspberrypi&logoColor=white" />
 </p>
 
 <br>
 
-<a href="https://github.com/MusawarQaderi/portfolio">
-  <img src="https://img.shields.io/badge/🌐_Portfolio_Repository-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
-</a>
-<p>
-  <b>Personal Cloud & DevOps Portfolio</b><br>
-  The central hub documenting my professional journey, technical skills, and hands-on projects as I transition into system integration and infrastructure.
-  <br>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-</p>
+---
 
-<br>
+### ⚡ BEYOND_THE_TERMINAL // OFF_SCREEN
+
+When I'm not writing code or configuring systems, you can usually find me doing one of these:
+
+- 🎵 **Music & Audio:** I've been producing music as a hobby using FL Studio for over 15 years.
+- 🎹 **Self-Taught Pianist:** I've been playing the piano since the age of 5—entirely self-taught through trial and error, heavily inspired by the childhood show *"Little Einsteins"*!
+- ⚽ **Sports:** Passionate football player since I was a kid.
+- 🛠️ **Hardware Tinkerer:** I love building custom PCs and acting as the go-to IT support for my friends and family.
+- 🎮 **Game Dev Explorer:** Beyond web games, I enjoy experimenting with the Unreal Engine to bring creative ideas to life.
 
 ---
 
@@ -113,7 +115,7 @@ I am currently undergoing vocational retraining as an **IT Systems Integration S
 <h4 align="center">Languages & Scripting</h4>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,js,ts,py,java,cpp" />
+    <img src="https://skillicons.dev/icons?i=java,py,php,js,html,css" />
   </a>
 </p>
 
@@ -127,7 +129,7 @@ I am currently undergoing vocational retraining as an **IT Systems Integration S
 <h4 align="center">Environments & Design</h4>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse" />
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,unreal" />
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/UML-000000?style=flat-square&labelColor=000000&color=000000" />
