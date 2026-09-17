@@ -24,7 +24,7 @@
 
 I am currently undergoing vocational retraining as an **IT Systems Integration Specialist** in Hamburg (expected graduation: **January 2028**), bridging the gap between infrastructure and software development. 
 
-My journey in tech began with studying Computer Science, where I built a strong foundation in **theoretical computer science, computer architecture, Java, and UML**. Today, I combine that theoretical knowledge with hands-on system administration. Whether I'm building custom PCs for friends and family, troubleshooting complex IT issues, or writing full-stack code, I love solving both hardware and software puzzles.
+My journey in tech began with studying Computer Science, where I built a strong foundation in **theoretical computer science, computer architecture, Java and UML**. Today, I combine that theoretical knowledge with hands-on system administration. Whether I'm building custom PCs for friends and family, troubleshooting complex IT issues, or writing full-stack code, I love solving both hardware and software puzzles.
 
 🌍 **Languages:** German (Native) &nbsp;•&nbsp; Dari (Native) &nbsp;•&nbsp; English (Fluent) &nbsp;•&nbsp; Spanish (Basic)
 
