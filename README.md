@@ -96,9 +96,10 @@ My journey in tech began with studying Computer Science, where I built a strong 
   <img src="https://img.shields.io/badge/MicroPython-2B3A42?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Hardware-000000?style=flat-square&logo=raspberrypi&logoColor=white" />
 </p>
-
-<br>
-
+<!-- Hier ist das eingebundene GIF -->
+<p align="center">
+  <img src="arcade-ezgif.com-video-to-gif-converter.gif" width="400" alt="Arcade Console Gameplay" style="border-radius: 8px;" />
+</p>
 ---
 
 ### ⚡ BEYOND_THE_TERMINAL // OFF_SCREEN
