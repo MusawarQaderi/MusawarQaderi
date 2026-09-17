@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=200&section=header&text=MUSAWAR%20QADERI&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=IT%20Systems%20Integration%20Trainee%20(Vocational%20Retraining)&descSize=16&descColor=38bdf8&animation=fadeIn" width="100%" alt="Musawar Qaderi Header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=IT+Systems+Integration+Trainee;Transitioning+to+Cloud+%26+DevOps;Building+Full-Stack+Projects;Based+in+Hamburg+%F0%9F%87%A9%F0%9F%87%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=IT+Systems+Integration+Trainee;Transitioning+to+Cloud+%26+DevOps;Building+Full-Stack+Projects;Based+in+Hamburg+%F0%9F%87%A9%F0%9F%87%AA)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <br>
 
@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://musawarqaderi.com"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/musawarqaderi"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/MusawarQaderi?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/MusawarQaderi"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 </div>
@@ -110,27 +110,27 @@ I am currently undergoing vocational retraining as an **IT Systems Integration S
 
 <div align="center">
 
-#### Languages & Scripting
+<h4 align="center">Languages & Scripting</h4>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,js,ts,py,java,cpp" />
   </a>
 </p>
 
-#### Infrastructure & Tools
+<h4 align="center">Infrastructure & Tools</h4>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,docker,git,githubactions" />
   </a>
 </p>
 
-#### Environments & Design
+<h4 align="center">Environments & Design</h4>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,eclipse" />
   </a>
   <br><br>
-  <img src="https://img.shields.io/badge/UML-000000?style=flat-square&logo=uml&logoColor=white" />
+  <img src="https://img.shields.io/badge/UML-000000?style=flat-square&labelColor=000000&color=000000" />
 </p>
 
 </div>
@@ -140,8 +140,8 @@ I am currently undergoing vocational retraining as an **IT Systems Integration S
 ### 📈 GITHUB_ANALYTICS
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MusawarQaderi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusawarQaderi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-tau-orpin.vercel.app/api?username=MusawarQaderi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-tau-orpin.vercel.app/api/top-langs/?username=MusawarQaderi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <div align="center">
