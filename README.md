@@ -106,7 +106,7 @@ My journey in tech began with studying Computer Science, where I built a strong 
 When I'm not writing code or configuring systems, you can usually find me doing one of these:
 
 - 🎵 **Music & Audio:** I've been producing music as a hobby using FL Studio for over 15 years.
-- 🎹 **Self-Taught Pianist:** I've been playing the piano since the age of 5—entirely self-taught through trial and error, heavily inspired by the childhood show *"Little Einsteins"*!
+- 🎹 **Self-Taught Pianist:** I've been playing the piano since the age of 5 — entirely self-taught through trial and error, heavily inspired by the childhood show *"Little Einsteins"*!
 - ⚽ **Sports:** Passionate football player since I was a kid.
 - 🛠️ **Hardware Tinkerer:** I love building custom PCs and acting as the go-to IT support for my friends and family.
 - 🎮 **Game Dev Explorer:** Beyond web games, I enjoy experimenting with the Unreal Engine to bring creative ideas to life.
