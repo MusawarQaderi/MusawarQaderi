@@ -68,7 +68,10 @@ My journey in tech began with studying Computer Science, where I built a strong 
     <img src="https://img.shields.io/badge/🟢_Live_Demo-1E293B?style=flat-square" />
   </a>
 </p>
-
+<!-- Hier ist das eingebundene GIF -->
+<p align="center">
+  <img src="202609181318 (1).gif" height="300"  alt="Sabotage-Canvas" style="border-radius: 8px;" />
+</p>
 <br>
 
 <a href="https://github.com/MusawarQaderi/footballhub">
