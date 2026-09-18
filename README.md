@@ -83,6 +83,11 @@ My journey in tech began with studying Computer Science, where I built a strong 
   <img src="https://img.shields.io/badge/HTML5/CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
+<!-- Hier ist das eingebundene GIF -->
+<p align="center">
+  <img src="FootballHub-Demo.gif" width="250" alt="FootballHub-Demo" style="border-radius: 8px;" />
+</p>
+
 <br>
 
 <a href="https://github.com/MusawarQaderi/arcade-project">
