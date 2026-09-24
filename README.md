@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=200&section=header&text=MUSAWAR%20QADERI&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=IT%20Systems%20Integration%20Trainee%20(Vocational%20Retraining)&descSize=16&descColor=38bdf8&animation=fadeIn" width="100%" alt="Musawar Qaderi Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=200&section=header&text=MUSAWAR%20QADERI&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Umsch%C3%BCler%20zum%20Fachinformatiker%20Systemintegration&descSize=16&descColor=38bdf8&animation=fadeIn" width="100%" alt="Musawar Qaderi Header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=IT+Systems+Integration+Trainee;Transitioning+to+Cloud+%26+DevOps;Hardware+Enthusiast+%26+Full-Stack+Dev;Based+in+Hamburg+%F0%9F%87%A9%F0%9F%87%AA)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=Fachinformatiker+Systemintegration+(Azubi);Fokus+auf+Cloud+%26+DevOps;Hardware+Enthusiast+%26+Full-Stack+Dev;Standort:+Hamburg+%F0%9F%87%A9%F0%9F%87%AA)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_INTERNSHIPS_%26_WORKING_STUDENT_ROLES-1E293B?style=for-the-badge&logo=codesandbox&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/STATUS-OFFEN_FÜR_PRAKTIKA_%26_WERKSTUDENTENSTELLEN-1E293B?style=for-the-badge&logo=codesandbox&logoColor=38bdf8" />
 </p>
 
 <p align="center">
@@ -20,38 +20,38 @@
 
 ---
 
-### 👨‍💻 SYSTEM_OVERVIEW // ABOUT_ME
+### 👨‍💻 SYSTEM_OVERVIEW // ÜBER_MICH
 
-I am currently undergoing vocational retraining as an **IT Systems Integration Specialist** in Hamburg (expected graduation: **January 2028**), bridging the gap between infrastructure and software development. 
+Ich absolviere aktuell eine Umschulung zum **Fachinformatiker für Systemintegration** in Hamburg (voraussichtlicher Abschluss: **Januar 2028**). Mein Ziel ist es, die Brücke zwischen klassischer IT-Infrastruktur und moderner Softwareentwicklung zu schlagen. 
 
-My journey in tech began with studying Computer Science, where I built a strong foundation in **theoretical computer science, computer architecture, Java and UML**. Today, I combine that theoretical knowledge with hands-on system administration. Whether I'm building custom PCs for friends and family, troubleshooting complex IT issues, or writing full-stack code, I love solving both hardware and software puzzles.
+Mein Weg in die IT begann mit einem Informatikstudium, durch das ich mir ein starkes Fundament in **theoretischer Informatik, Rechnerarchitektur, Java und UML** aufbauen konnte. Heute kombiniere ich dieses Wissen mit praxisnaher Systemadministration. Egal, ob ich Custom-PCs für Freunde zusammenbaue, komplexe IT-Probleme löse oder Full-Stack-Code schreibe – ich liebe es, an der Schnittstelle von Hard- und Software zu arbeiten.
 
-🌍 **Languages:** German (Native) &nbsp;•&nbsp; Dari (Native) &nbsp;•&nbsp; English (Fluent) &nbsp;•&nbsp; Spanish (Basic)
+🌍 **Sprachen:** Deutsch (Muttersprache) &nbsp;•&nbsp; Dari (Muttersprache) &nbsp;•&nbsp; Englisch (Fließend) &nbsp;•&nbsp; Spanisch (Grundkenntnisse)
 
-> 💡 *I am actively looking for **internships, working student positions and training projects** in System Integration, Cloud Architecture or DevOps.*
+> 💡 *Ich bin aktiv auf der Suche nach **Praktika, Werkstudentenstellen und Ausbildungsprojekten** in den Bereichen Systemintegration, Cloud-Architektur oder DevOps.*
 
 ---
 
-### 🎯 CURRENT_LEARNING_FOCUS
+### 🎯 CURRENT_LEARNING_FOCUS // AKTUELLER_FOKUS
 
 <div align="center">
   <br>
-  <img src="https://img.shields.io/badge/🔵_IN_TRAINING-1E293B?style=for-the-badge&fontColor=white" />
-  <p><b>Operating Systems & Architecture &nbsp;•&nbsp; Python & PHP/SQL &nbsp;•&nbsp; Networking & Linux</b></p>
+  <img src="https://img.shields.io/badge/🔵_IN_AUSBILDUNG-1E293B?style=for-the-badge&fontColor=white" />
+  <p><b>Betriebssysteme & Architektur &nbsp;•&nbsp; Python & PHP/SQL &nbsp;•&nbsp; Netzwerke & Linux</b></p>
   
   <br>
-  <img src="https://img.shields.io/badge/🟡_ACTIVE_PROJECTS-1E293B?style=for-the-badge&fontColor=white" />
-  <p><b>Deploying Web Apps via Render &nbsp;•&nbsp; Game Development (Unreal Engine) &nbsp;•&nbsp; Hardware Tinkering</b></p>
+  <img src="https://img.shields.io/badge/🟡_AKTIVE_PROJEKTE-1E293B?style=for-the-badge&fontColor=white" />
+  <p><b>Deployment von Web-Apps via Render &nbsp;•&nbsp; Game Development (Unreal Engine) &nbsp;•&nbsp; Hardware-Basteleien</b></p>
 
   <br>
-  <img src="https://img.shields.io/badge/⚪_PLANNED_NEXT-1E293B?style=for-the-badge&fontColor=white" />
+  <img src="https://img.shields.io/badge/⚪_NÄCHSTE_SCHRITTE-1E293B?style=for-the-badge&fontColor=white" />
   <p><b>Cloud Fundamentals (AWS/Azure) &nbsp;•&nbsp; CI/CD Pipelines</b></p>
   <br>
 </div>
 
 ---
 
-### 🚀 FEATURED_PROJECTS
+### 🚀 FEATURED_PROJECTS // MEINE_PROJEKTE
 
 <br>
 
@@ -59,8 +59,8 @@ My journey in tech began with studying Computer Science, where I built a strong 
   <img src="https://img.shields.io/badge/🎨_Sabotage_Canvas-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
 </a>
 <p>
-  <b>Browser-Based Multiplayer Party Game</b><br>
-  An imposter-style drawing game built to be the perfect Discord hangout game. Currently working on deploying the full stack via Render for live multiplayer lobbies.
+  <b>Browserbasiertes Multiplayer-Partyspiel</b><br>
+  Ein Zeichenspiel im "Imposter"-Stil, entwickelt als perfektes Spiel für Discord-Abende. Aktuell arbeite ich daran, den kompletten Stack über Render für Live-Multiplayer-Lobbys zu deployen.
   <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Multiplayer-FF5722?style=flat-square&logo=socket.io&logoColor=white" />
@@ -78,8 +78,8 @@ My journey in tech began with studying Computer Science, where I built a strong 
   <img src="https://img.shields.io/badge/⚽_FootballHub-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
 </a>
 <p>
-  <b>Role-Based Team Management Web Application</b><br>
-  Features secure login, customized dashboards for coaches & players, and tactical line-up tools. Built during my web development training module.
+  <b>Rollenbasierte Web-App für Team-Management</b><br>
+  Bietet sicheren Login, maßgeschneiderte Dashboards für Trainer & Spieler sowie Tools für die taktische Aufstellung. Entwickelt während meines Web-Development-Moduls.
   <br>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -97,8 +97,8 @@ My journey in tech began with studying Computer Science, where I built a strong 
   <img src="https://img.shields.io/badge/🕹️_Arcade_Project-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
 </a>
 <p>
-  <b>Embedded Retro Arcade Console</b><br>
-  Built on a Raspberry Pi Pico 2W with an OLED display and joystick controls. Developed to deepen my understanding of hardware-software interaction.
+  <b>Eingebettete Retro-Arcade-Konsole</b><br>
+  Gebaut auf einem Raspberry Pi Pico 2W mit OLED-Display und Joystick-Steuerung. Entwickelt, um mein Verständnis für das Zusammenspiel von Hard- und Software zu vertiefen.
   <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MicroPython-2B3A42?style=flat-square&logo=python&logoColor=white" />
@@ -109,37 +109,37 @@ My journey in tech began with studying Computer Science, where I built a strong 
   <img src="arcade-ezgif.com-video-to-gif-converter.gif" width="500" alt="Arcade Console Gameplay" style="border-radius: 8px;" />
 </p>
 
-### ⚡ BEYOND_THE_TERMINAL // OFF_SCREEN
+### ⚡ BEYOND_THE_TERMINAL // ABSEITS_VOM_BILDSCHIRM
 
-When I'm not writing code or configuring systems, you can usually find me doing one of these:
+Wenn ich nicht gerade Code schreibe oder Systeme konfiguriere, findet man mich meistens hierbei:
 
-- 🎵 **Music & Audio:** I've been producing music as a hobby using FL Studio for over 15 years.
-- 🎹 **Self-Taught Pianist:** I've been playing the piano since the age of 5 — entirely self-taught through trial and error, heavily inspired by the childhood show *"Little Einsteins"*!
-- ⚽ **Sports:** Passionate football player since I was a kid.
-- 🛠️ **Hardware Tinkerer:** I love building custom PCs and acting as the go-to IT support for my friends and family.
-- 🎮 **Game Dev Explorer:** Beyond web games, I enjoy experimenting with the Unreal Engine to bring creative ideas to life.
+- 🎵 **Musik & Audio:** Ich produziere seit über 15 Jahren hobbymäßig Musik mit FL Studio.
+- 🎹 **Autodidakt am Klavier:** Ich spiele Klavier seit ich 5 Jahre alt bin – komplett selbst beigebracht durch Ausprobieren, stark inspiriert von der Kinderserie *"Little Einsteins"*!
+- ⚽ **Sport:** Leidenschaftlicher Fußballer von Kindesbeinen an.
+- 🛠️ **Hardware-Tüftler:** Ich baue gerne Custom-PCs zusammen und bin der feste IT-Support für Familie und Freunde.
+- 🎮 **Game Dev Explorer:** Neben Web-Spielen experimentiere ich gerne mit der Unreal Engine, um kreative Ideen zum Leben zu erwecken.
 
 ---
 
-### ⚙️ CORE_TECHNOLOGIES
+### ⚙️ CORE_TECHNOLOGIES // MEIN_TECH_STACK
 
 <div align="center">
 
-<h4 align="center">Languages & Scripting</h4>
+<h4 align="center">Sprachen & Skripte</h4>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,php,js,html,css" />
   </a>
 </p>
 
-<h4 align="center">Infrastructure & Tools</h4>
+<h4 align="center">Infrastruktur & Tools</h4>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,docker,git,githubactions" />
   </a>
 </p>
 
-<h4 align="center">Environments & Design</h4>
+<h4 align="center">Umgebungen & Design</h4>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,eclipse,unreal" />
@@ -161,9 +161,9 @@ When I'm not writing code or configuring systems, you can usually find me doing 
 <br>
 
 <div align="center">
-  <em>Always open to discussing internships, working student roles, and opportunities in System Integration, Cloud & DevOps — feel free to connect!</em>
+  <em>Ich bin jederzeit offen für Gespräche über Praktika, Werkstudentenstellen und Möglichkeiten in den Bereichen Systemintegration, Cloud & DevOps — schreibt mir gerne!</em>
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=100&section=footer" width="100%" />
   <br>
-  <sub>© 2026 Musawar Qaderi • Engineered in Hamburg</sub>
+  <sub>© 2026 Musawar Qaderi • Entwickelt in Hamburg</sub>
 </div>
