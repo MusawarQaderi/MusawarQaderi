@@ -9,8 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://musawarqaderi.com"><img src="https://img.shields.io/badge/PORTFOLIO_WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/musawarqaderi"><img src="https://img.shields.io/badge/LINKEDIN_PROFIL-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:deine.email@domain.de"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://musawarqaderi.com"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/musawarqaderi"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/MusawarQaderi"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 </div>
@@ -21,90 +23,109 @@
 
 Als angehender **Fachinformatiker für Systemintegration** (voraussichtlicher Abschluss: **Januar 2028** in Hamburg) ist es mein Ziel, die Brücke zwischen robuster IT-Infrastruktur und moderner Softwareentwicklung zu schlagen. 
 
-Mein IT-Fundament habe ich durch ein Informatikstudium gelegt, in dem ich mir tiefgreifendes Wissen in **theoretischer Informatik, Rechnerarchitektur, Java und UML** angeeignet habe. Heute kombiniere ich dieses analytische Denken mit praxisnaher Systemadministration. Egal, ob ich Netzwerke konfiguriere, Cloud-Deployments aufsetze oder Full-Stack-Code schreibe – ich bin in meinem Element, wenn Hard- und Software nahtlos ineinandergreifen.
+Mein analytisches Fundament habe ich durch ein Informatikstudium (Fokus auf theoretische Informatik, Rechnerarchitektur & Java) gelegt. Heute kombiniere ich dieses Wissen mit praxisnaher Systemadministration. Egal, ob ich Serverlandschaften konfiguriere, Cloud-Deployments automatisiere oder Full-Stack-Anwendungen baue – ich bin in meinem Element, wenn Hard- und Software nahtlos ineinandergreifen.
 
 🌍 **Sprachen:** Deutsch (Muttersprache) &nbsp;•&nbsp; Dari (Muttersprache) &nbsp;•&nbsp; Englisch (Fließend) &nbsp;•&nbsp; Spanisch (Grundkenntnisse)
 
-> 💡 **Verfügbarkeit:** Ich bin aktiv auf der Suche nach **Praktika, Werkstudentenstellen und Ausbildungsprojekten** in den Bereichen Systemintegration, Cloud-Architektur oder DevOps im Raum Hamburg.
+> 💡 *Ich bin aktiv auf der Suche nach **Praktika, Werkstudentenstellen und Ausbildungsprojekten** in den Bereichen Systemintegration, Cloud-Architektur oder DevOps.*
 
 ---
 
-### 🎯 CURRENT_LEARNING_FOCUS // AKTUELLER_FOKUS
+### ⚙️ CORE_TECHNOLOGIES // MEIN_TECH_STACK
 
 <div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/🔵_IN_AUSBILDUNG-1E293B?style=for-the-badge&fontColor=white" />
-  <p><b>Betriebssysteme & Architektur &nbsp;•&nbsp; Python & PHP/SQL &nbsp;•&nbsp; Netzwerke & Linux</b></p>
-  
-  <img src="https://img.shields.io/badge/🟡_AKTIVE_PROJEKTE-1E293B?style=for-the-badge&fontColor=white" />
-  <p><b>Web-App Deployments (Render) &nbsp;•&nbsp; Game Development (Unreal Engine) &nbsp;•&nbsp; Hardware-Engineering (RasPi)</b></p>
 
-  <img src="https://img.shields.io/badge/⚪_NÄCHSTE_SCHRITTE-1E293B?style=for-the-badge&fontColor=white" />
-  <p><b>Cloud Fundamentals (AWS/Azure) &nbsp;•&nbsp; CI/CD Pipelines & Automation</b></p>
-  <br>
+<p><b>Infrastruktur, Cloud & Tools</b></p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,githubactions,aws" />
+  </a>
+</p>
+
+<p><b>Sprachen, Web & Datenbanken</b></p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,php,js,html,css,mysql" />
+  </a>
+</p>
+
+<p><b>IDE, Design & Engines</b></p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,unreal" />
+  </a>
+</p>
+
 </div>
 
 ---
 
 ### 🚀 FEATURED_PROJECTS // MEINE_PROJEKTE
 
-<table border="0" cellpadding="15" cellspacing="0" width="100%">
+<table border="0" width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="55%" valign="middle">
   <a href="https://github.com/MusawarQaderi/sabotage-canvas">
     <img src="https://img.shields.io/badge/🎨_Sabotage_Canvas-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
   </a>
   <p><b>Browserbasiertes Multiplayer-Partyspiel</b><br>
-  Ein Zeichenspiel im "Imposter"-Stil für Discord-Abende. Derzeit im Umbau für ein Full-Stack-Deployment via Render inkl. Live-Multiplayer-Lobbys.</p>
+  Ein Echtzeit-Zeichenspiel im "Imposter"-Stil für Discord-Abende. Derzeit im Umbau für ein skalierbares Full-Stack-Deployment via Render inkl. Live-Multiplayer-Lobbys.</p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Socket.io-FF5722?style=flat-square&logo=socket.io&logoColor=white" />
   <a href="https://sabotage-canvas.onrender.com"><img src="https://img.shields.io/badge/🟢_Live_Demo-1E293B?style=flat-square" /></a>
 </td>
 <td width="45%" align="center" valign="middle">
-  <img src="202609181318 (1).gif" width="100%" alt="Sabotage-Canvas" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="202609181318 (1).gif" width="100%" alt="Sabotage-Canvas" style="border-radius: 8px; max-width: 350px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </td>
 </tr>
-</table>
 
-<br>
-
-<table border="0" cellpadding="15" cellspacing="0" width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="55%" valign="middle">
   <a href="https://github.com/MusawarQaderi/footballhub">
     <img src="https://img.shields.io/badge/⚽_FootballHub-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
   </a>
   <p><b>Rollenbasierte Web-App für Team-Management</b><br>
-  Bietet sicheren Login, maßgeschneiderte Dashboards für Trainer & Spieler sowie Tools für die taktische Aufstellung. Entwickelt im Web-Dev-Modul.</p>
+  Komplexe App mit sicherem Login, maßgeschneiderten Dashboards für Trainer & Spieler sowie interaktiven Tools für taktische Aufstellungen.</p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5/CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </td>
 <td width="45%" align="center" valign="middle">
-  <img src="FootballHub-Demo.gif" width="100%" alt="FootballHub-Demo" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="FootballHub-Demo.gif" width="100%" alt="FootballHub-Demo" style="border-radius: 8px; max-width: 350px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </td>
 </tr>
-</table>
 
-<br>
-
-<table border="0" cellpadding="15" cellspacing="0" width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="55%" valign="middle">
   <a href="https://github.com/MusawarQaderi/arcade-project">
     <img src="https://img.shields.io/badge/🕹️_Arcade_Project-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
   </a>
   <p><b>Eingebettete Retro-Arcade-Konsole</b><br>
-  Gebaut auf einem Raspberry Pi Pico 2W mit OLED-Display und Joystick-Steuerung. Perfektes Praxisprojekt für das Zusammenspiel von Hardware & Code.</p>
+  Gebaut auf einem Raspberry Pi Pico 2W mit OLED-Display und Hardware-Joystick. Ein perfektes Hands-on Projekt, um das Zusammenspiel von Hardware & Low-Level-Code zu meisern.</p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MicroPython-2B3A42?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Hardware-000000?style=flat-square&logo=raspberrypi&logoColor=white" />
 </td>
 <td width="45%" align="center" valign="middle">
-  <img src="arcade-ezgif.com-video-to-gif-converter.gif" width="100%" alt="Arcade Console Gameplay" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="arcade-ezgif.com-video-to-gif-converter.gif" width="100%" alt="Arcade Console Gameplay" style="border-radius: 8px; max-width: 350px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </td>
 </tr>
 </table>
+
+---
+
+### 🎯 CURRENT_LEARNING_FOCUS // AKTUELLER_FOKUS
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🔵_IN_AUSBILDUNG-1E293B?style=for-the-badge&fontColor=white" />
+  <p><b>Betriebssysteme & Architektur &nbsp;•&nbsp; Python & PHP/SQL &nbsp;•&nbsp; Netzwerke & Linux</b></p>
+  
+  <img src="https://img.shields.io/badge/🟡_AKTIVE_PROJEKTE-1E293B?style=for-the-badge&fontColor=white" />
+  <p><b>Web-App Deployments (Render) &nbsp;•&nbsp; Game Development (Unreal) &nbsp;•&nbsp; Hardware-Engineering</b></p>
+
+  <img src="https://img.shields.io/badge/⚪_NÄCHSTE_SCHRITTE-1E293B?style=for-the-badge&fontColor=white" />
+  <p><b>Cloud Fundamentals (AWS/Azure) &nbsp;•&nbsp; CI/CD Pipelines & Automation</b></p>
+</div>
 
 ---
 
@@ -120,35 +141,6 @@ Wenn ich nicht gerade code, passiert meistens das hier:
 
 ---
 
-### ⚙️ CORE_TECHNOLOGIES // MEIN_TECH_STACK
-
-<div align="center">
-
-<p><b>Sprachen & Web-Technologien</b></p>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,php,js,html,css,mysql" />
-  </a>
-</p>
-<br>
-<p><b>Infrastruktur, Cloud & Tools</b></p>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,githubactions,aws" />
-  </a>
-</p>
-<br>
-<p><b>IDE, Design & Engines</b></p>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse,unreal" />
-  </a>
-</p>
-
-</div>
-
----
-
 ### 📈 GITHUB_ANALYTICS
 
 <div align="center">
@@ -159,7 +151,7 @@ Wenn ich nicht gerade code, passiert meistens das hier:
 
 <div align="center">
   <h3>Lass uns vernetzen! 🤝</h3>
-  <p><em>Ich bin jederzeit offen für Gespräche über Einstiegsmöglichkeiten im Bereich <b>Systemintegration, Cloud & DevOps</b>.</em></p>
+  <p><em>Ich bin jederzeit offen für Gespräche über Praktika, Werkstudentenstellen und Möglichkeiten in den Bereichen <b>Systemintegration, Cloud & DevOps</b>.</em></p>
   
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=100&section=footer" width="100%" />
