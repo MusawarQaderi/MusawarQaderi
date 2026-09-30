@@ -86,7 +86,7 @@ Mein analytisches Fundament habe ich durch ein Informatikstudium (Fokus auf theo
     <img src="https://img.shields.io/badge/🎨_Sabotage_Canvas-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
   </a>
   <p><b>Browserbasiertes Multiplayer-Partyspiel</b><br>
-  Ein Echtzeit-Zeichenspiel im "Imposter"-Stil für Discord-Abende. Derzeit im Umbau für ein skalierbares Full-Stack-Deployment via Render inkl. Live-Multiplayer-Lobbys.</p>
+  Ein Echtzeit-Zeichenspiel im "Imposter"-Stil für Discord-Abende. Idee Entstanden, als ich mit meinen Freunden zum 12. Mal in 14 Tagen Stadt-Land-Fluss über Discord spielte und wir dringend nach einer Alternative suchten. Derzeit im Umbau für ein skalierbares Full-Stack-Deployment via Render inkl. Live-Multiplayer-Lobbys.</p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Socket.io-FF5722?style=flat-square&logo=socket.io&logoColor=white" />
   <a href="https://sabotage-canvas.onrender.com"><img src="https://img.shields.io/badge/🟢_Live_Demo-1E293B?style=flat-square" /></a>
