@@ -149,7 +149,6 @@ Wenn ich nicht gerade Code schreibe oder Server konfiguriere, findet man mich hi
 <br>
 
 <div align="center">
-  <h3>Lass uns vernetzen! 🤝</h3>
   <p><em>Ich bin jederzeit offen für Gespräche über Praktika, Werkstudentenstellen und Möglichkeiten in den Bereichen <b>Systemintegration, Cloud & DevOps</b>.</em></p>
   
   <br>
