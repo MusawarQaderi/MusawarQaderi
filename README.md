@@ -67,7 +67,7 @@ Mein analytisches Fundament habe ich durch ein Informatikstudium (Fokus auf theo
     <img src="https://img.shields.io/badge/⚽_FootballHub-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
   </a>
   <p><b>Rollenbasierte Web-App (Aktuell in DevOps-Migration)</b><br>
-  Ursprünglich als lokales PHP/SQL-Projekt entwickelt, migriere ich diese App derzeit in eine professionelle Cloud-Umgebung. Der Fokus liegt dabei auf Containerisierung (Docker) und automatisierten Deployments.</p>
+  Ursprünglich als lokales PHP/SQL-Projekt während des PHP-Moduls in der Umschulung entwickelt, migriere ich diese App derzeit in eine professionelle Cloud-Umgebung. Der Fokus liegt dabei auf Containerisierung (Docker) und automatisierten Deployments.</p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
