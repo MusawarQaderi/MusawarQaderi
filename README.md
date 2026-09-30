@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=200&section=header&text=MUSAWAR%20QADERI&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Angehender%20Fachinformatiker%20für%20Systemintegration&descSize=16&descColor=38bdf8&animation=fadeIn" width="100%" alt="Musawar Qaderi Header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=Fachinformatiker+Systemintegration+(Azubi);Fokus+auf+Cloud+%26+DevOps;Hardware+Enthusiast+%26+Full-Stack+Dev;Standort:+Hamburg+%F0%9F%87%A9%F0%9F%87%AA)](https://github.com/DenverCoder1/readme-typing-svg)
-
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-OFFEN_FÜR_PRAKTIKA_%26_WERKSTUDENTENSTELLEN-1E293B?style=for-the-badge&logo=codesandbox&logoColor=38bdf8" />
 </p>
@@ -150,7 +148,6 @@ Wenn ich nicht gerade code, passiert meistens das hier:
 <br>
 
 <div align="center">
-  <h3>Lass uns vernetzen! 🤝</h3>
   <p><em>Ich bin jederzeit offen für Gespräche über Praktika, Werkstudentenstellen und Möglichkeiten in den Bereichen <b>Systemintegration, Cloud & DevOps</b>.</em></p>
   
   <br>
