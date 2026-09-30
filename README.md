@@ -62,19 +62,25 @@ Mein analytisches Fundament habe ich durch ein Informatikstudium (Fokus auf theo
 
 <table border="0" width="100%">
 <tr>
-<td width="55%" valign="middle">
+<td width="55%" valign="top">
   <a href="https://github.com/MusawarQaderi/footballhub">
     <img src="https://img.shields.io/badge/⚽_FootballHub-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
   </a>
   <p><b>Rollenbasierte Web-App (Aktuell in DevOps-Migration)</b><br>
   Ursprünglich als lokales PHP/SQL-Projekt während des PHP-Moduls in der Umschulung entwickelt, migriere ich diese App derzeit in eine professionelle Cloud-Umgebung. Der Fokus liegt dabei auf Containerisierung (Docker) und automatisierten Deployments.</p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5/CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  
+  <p>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cloud_Hosting-000000?style=flat-square&logo=linux&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  </p>
 </td>
 <td width="45%" align="center" valign="middle">
-  <img src="FootballHub-Demo.gif" width="100%" alt="FootballHub-Demo" style="border-radius: 8px; max-width: 350px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <img src="FootballHub-Demo.gif" width="100%" alt="FootballHub-Demo" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </td>
 </tr>
   
