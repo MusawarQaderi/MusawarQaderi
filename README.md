@@ -82,8 +82,11 @@ Mein analytisches Fundament habe ich durch ein Informatikstudium (Fokus auf theo
   <a href="https://github.com/MusawarQaderi/footballhub">
     <img src="https://img.shields.io/badge/⚽_FootballHub-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
   </a>
-  <p><b>Rollenbasierte Web-App für Team-Management</b><br>
-  Komplexe App mit sicherem Login, maßgeschneiderten Dashboards für Trainer & Spieler sowie interaktiven Tools für taktische Aufstellungen.</p>
+  <p><b>Rollenbasierte Web-App (Aktuell in DevOps-Migration)</b><br>
+  Ursprünglich als lokales PHP/SQL-Projekt entwickelt, migriere ich diese App derzeit in eine professionelle Cloud-Umgebung. Der Fokus liegt dabei auf Containerisierung (Docker) und automatisierten Deployments.</p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5/CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -119,10 +122,10 @@ Mein analytisches Fundament habe ich durch ein Informatikstudium (Fokus auf theo
   <p><b>CI/CD Pipelines (Terraform/GitHub Actions) &nbsp;•&nbsp; Netzwerke und Linux &nbsp;•&nbsp; IT-Security</b></p>
   
   <img src="https://img.shields.io/badge/🟡_AKTIVE_PROJEKTE-1E293B?style=for-the-badge&fontColor=white" />
-  <p><b>Web-App Deployments (Render) &nbsp;•&nbsp; Game Development (Unreal) &nbsp;•&nbsp; Hardware-Engineering</b></p>
+  <p><b>Cloud-Migration (FootballHub) &nbsp;•&nbsp; CI/CD & Terraform &nbsp;•&nbsp; Containerisierung (Docker)</b></p>
 
   <img src="https://img.shields.io/badge/⚪_NÄCHSTE_SCHRITTE-1E293B?style=for-the-badge&fontColor=white" />
-  <p><b>Cloud Fundamentals (AWS/Azure) &nbsp;•&nbsp; CI/CD Pipelines & Automation</b></p>
+  <p><b>Advanced Linux & Bash Scripting &nbsp;•&nbsp; Terminal-Automatisierung &nbsp;•&nbsp; Cloud Fundamentals (AWS)</b></p>
 </div>
 
 ---
