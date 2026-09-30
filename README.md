@@ -83,18 +83,17 @@ Mein analytisches Fundament habe ich durch ein Informatikstudium (Fokus auf theo
   <a href="https://github.com/MusawarQaderi/sabotage-canvas">
     <img src="https://img.shields.io/badge/🎨_Sabotage_Canvas-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
   </a>
-  <p><b>Echtzeit-Multiplayer-App (Node.js & WebSockets)</b><br>
-  Ein Zeichenspiel im "Imposter"-Stil. Die Idee entstand, als meine Freunde und ich zum zwölften Mal in zwei Wochen Stadt-Land-Fluss über Discord spielten und dringend eine Alternative brauchten. Heute läuft das Backend als dedizierter Express-Server mit raumbasiertem Matchmaking und ist für ein skalierbares Deployment via Render optimiert.</p>
+  <p><b>Echtzeit-Multiplayer-App (Fokus: Hosting & Deployment)</b><br>
+  Die Idee entstand, als wir zum zwölften Mal Stadt-Land-Fluss über Discord spielten. Da mein Fokus auf Systemintegration liegt, habe ich die Code-Basis größtenteils als Proof-of-Concept mit KI generiert. Mein primäres Ziel war es, den Lifecycle zu meistern: Einen Node.js-Server mit WebSockets zu konfigurieren und als frei zugängliche App über Render live zu deployen.</p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Deployment-Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
   <a href="https://sabotage-canvas.onrender.com"><img src="https://img.shields.io/badge/🟢_Live_Demo-1E293B?style=flat-square" /></a>
 </td>
 <td width="45%" align="center" valign="middle">
   <img src="202609181318 (1).gif" width="100%" alt="Sabotage-Canvas" style="border-radius: 8px; max-width: 350px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </td>
 </tr>
-
 
 
 <tr>
