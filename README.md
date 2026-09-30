@@ -116,7 +116,7 @@ Mein analytisches Fundament habe ich durch ein Informatikstudium (Fokus auf theo
 
 <div align="center">
   <img src="https://img.shields.io/badge/🔵_IN_AUSBILDUNG-1E293B?style=for-the-badge&fontColor=white" />
-  <p><b>Java und UML &nbsp;•&nbsp; Netzwerke und Linux &nbsp;•&nbsp; IT-Security</b></p>
+  <p><b>CI/CD Pipelines (Terraform/GitHub Actions) &nbsp;•&nbsp; Netzwerke und Linux &nbsp;•&nbsp; IT-Security</b></p>
   
   <img src="https://img.shields.io/badge/🟡_AKTIVE_PROJEKTE-1E293B?style=for-the-badge&fontColor=white" />
   <p><b>Web-App Deployments (Render) &nbsp;•&nbsp; Game Development (Unreal) &nbsp;•&nbsp; Hardware-Engineering</b></p>
