@@ -89,9 +89,17 @@ Mein analytisches Fundament habe ich durch ein Informatikstudium (Fokus auf theo
   </a>
   <p><b>Echtzeit-Multiplayer-App (Fokus: Hosting & Deployment)</b><br>
   Die Idee entstand, als wir zum zwölften Mal Stadt-Land-Fluss über Discord spielten und dringend nach einer Alternative suchten. Da mein Fokus auf Systemintegration liegt, habe ich die Code-Basis größtenteils als Proof-of-Concept mit KI generiert. Mein primäres Ziel war es, eine frei zugängliche App über Render live zu deployen.</p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deployment-Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  </p>
+  
   <a href="https://sabotage-canvas.onrender.com"><img src="https://img.shields.io/badge/🟢_Live_Demo-1E293B?style=flat-square" /></a>
 </td>
 <td width="45%" align="center" valign="middle">
