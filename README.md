@@ -71,10 +71,13 @@ Mein analytisches Fundament habe ich durch ein Informatikstudium (Fokus auf theo
   
   <p>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cloud_Hosting-000000?style=flat-square&logo=linux&logoColor=white" />
+    <br>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB">
   </p>
 </td>
 <td width="45%" align="center" valign="middle">
