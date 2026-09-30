@@ -76,17 +76,18 @@ Mein analytisches Fundament habe ich durch ein Informatikstudium (Fokus auf theo
     <br>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   </p>
 </td>
 <td width="45%" align="center" valign="middle">
-  <img src="FootballHub-Demo.gif" width="100%" alt="FootballHub-Demo" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="FootballHub-Demo.gif" width="100%" alt="FootballHub-Demo" style="border-radius: 8px; max-width: 350px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </td>
 </tr>
   
 <tr>
 <td width="55%" valign="middle">
+  <br>
   <a href="https://github.com/MusawarQaderi/sabotage-canvas">
     <img src="https://img.shields.io/badge/🎨_Sabotage_Canvas-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
   </a>
@@ -104,12 +105,12 @@ Mein analytisches Fundament habe ich durch ein Informatikstudium (Fokus auf theo
   </p>
   
   <a href="https://sabotage-canvas.onrender.com"><img src="https://img.shields.io/badge/🟢_Live_Demo-1E293B?style=flat-square" /></a>
+  <br><br>
 </td>
 <td width="45%" align="center" valign="middle">
   <img src="202609181318 (1).gif" width="100%" alt="Sabotage-Canvas" style="border-radius: 8px; max-width: 350px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </td>
 </tr>
-
 
 <tr>
 <td width="55%" valign="middle">
@@ -117,10 +118,12 @@ Mein analytisches Fundament habe ich durch ein Informatikstudium (Fokus auf theo
     <img src="https://img.shields.io/badge/🕹️_Arcade_Project-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
   </a>
   <p><b>Eingebettete Retro-Arcade-Konsole</b><br>
-  Gebaut auf einem Raspberry Pi Pico 2W mit OLED-Display und Hardware-Joystick. Ein perfektes Hands-on Projekt, um das Zusammenspiel von Hardware & Low-Level-Code zu meisern.</p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MicroPython-2B3A42?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardware-000000?style=flat-square&logo=raspberrypi&logoColor=white" />
+  Gebaut auf einem Raspberry Pi Pico 2W mit OLED-Display und Hardware-Joystick. Ein perfektes Hands-on Projekt, um das Zusammenspiel von Hardware & Low-Level-Code zu meistern.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/MicroPython-2B3A42?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hardware-000000?style=flat-square&logo=raspberrypi&logoColor=white" />
+  </p>
 </td>
 <td width="45%" align="center" valign="middle">
   <img src="arcade-ezgif.com-video-to-gif-converter.gif" width="100%" alt="Arcade Console Gameplay" style="border-radius: 8px; max-width: 350px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
