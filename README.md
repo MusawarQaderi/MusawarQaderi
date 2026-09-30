@@ -140,7 +140,7 @@ Mein analytisches Fundament habe ich durch ein Informatikstudium (Fokus auf theo
   <p><b>CI/CD Pipelines (Terraform/GitHub Actions) &nbsp;•&nbsp; Netzwerke und Linux &nbsp;•&nbsp; IT-Security</b></p>
   
   <img src="https://img.shields.io/badge/🟡_AKTIVE_PROJEKTE-1E293B?style=for-the-badge&fontColor=white" />
-  <p><b>Cloud-Migration (FootballHub) &nbsp;•&nbsp; CI/CD & Terraform &nbsp;•&nbsp; Containerisierung (Docker)</b></p>
+  <p><b>Cloud-Migration (FootballHub) &nbsp;•&nbsp; Containerisierung (Docker)</b></p>
 
   <img src="https://img.shields.io/badge/⚪_NÄCHSTE_SCHRITTE-1E293B?style=for-the-badge&fontColor=white" />
   <p><b>Advanced Linux & Bash Scripting &nbsp;•&nbsp; Terminal-Automatisierung &nbsp;•&nbsp; Cloud Fundamentals (AWS)</b></p>
