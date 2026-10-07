@@ -92,7 +92,7 @@ Mein analytisches Fundament habe ich durch ein Informatikstudium (Fokus auf theo
     <img src="https://img.shields.io/badge/🎨_Sabotage_Canvas-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" />
   </a>
   <p><b>Echtzeit-Multiplayer-App (Fokus: Hosting & Deployment)</b><br>
-  Die Idee entstand, als wir zum zwölften Mal Stadt-Land-Fluss über Discord spielten und dringend nach einer Alternative suchten. Da mein Fokus auf Systemintegration liegt, habe ich die Code-Basis größtenteils als Proof-of-Concept mit KI generiert. Mein primäres Ziel war es, eine frei zugängliche App über Render live zu deployen.</p>
+  Die Idee entstand, als wir zum zwölften Mal in zwölf Tagen Stadt-Land-Fluss über Discord spielten und dringend nach einer Alternative suchten. Da mein Fokus auf Systemintegration liegt, habe ich die Code-Basis größtenteils als Proof-of-Concept mit KI generiert. Mein primäres Ziel war es, eine frei zugängliche App über Render live zu deployen.</p>
   <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
