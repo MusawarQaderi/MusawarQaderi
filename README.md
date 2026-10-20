@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  <!-- HIER DEINE ECHTE E-MAIL EINTRAGEN -->
-  <a href="mailto:deine.email@domain.de"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:musawar.qaderi@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://musawarqaderi.com"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://linkedin.com/in/musawarqaderi"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/MusawarQaderi"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
