@@ -131,7 +131,7 @@ Mein analytisches Fundament habe ich durch ein Informatikstudium (Fokus auf theo
 
 <div align="center">
   <img src="https://img.shields.io/badge/🔵_IN_AUSBILDUNG-1E293B?style=for-the-badge&fontColor=white" alt="In Ausbildung" />
-  <p><b>CI/CD & IaC (GitHub Actions / Terraform) &nbsp;•&nbsp; Netzwerktechnik (TCP/IP, Routing, Subnetting) & Linux &nbsp;•&nbsp; IT-Security</b></p>
+  <p><b>Netzwerktechnik (TCP/IP, Routing, Subnetting) & Linux &nbsp;•&nbsp; IT-Security</b></p>
   
   <img src="https://img.shields.io/badge/🟡_AKTIVE_PROJEKTE-1E293B?style=for-the-badge&fontColor=white" alt="Aktive Projekte" />
   <p><b>Cloud-Migration (FootballHub) &nbsp;•&nbsp; Containerisierung & Orchestrierung (Docker)</b></p>
