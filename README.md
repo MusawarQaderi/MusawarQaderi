@@ -99,7 +99,6 @@ Mein analytisches Fundament habe ich durch ein Informatikstudium (Fokus auf theo
   </p>
   
   <a href="https://sabotage-canvas.onrender.com"><img src="https://img.shields.io/badge/🟢_Live_Demo-1E293B?style=flat-square" alt="Live Demo" /></a>
-  <sub><i>(Free-Tier-Instanz: Cold-Start kann ~30 Sek. dauern)</i></sub>
   <br><br>
 </td>
 <td width="45%" align="center" valign="middle">
@@ -121,7 +120,7 @@ Mein analytisches Fundament habe ich durch ein Informatikstudium (Fokus auf theo
   </p>
 </td>
 <td width="45%" align="center" valign="middle">
-  <img src="arcade-ezgif.com-video-to-gif-converter.gif" width="550" alt="Arcade Console Gameplay" />
+  <img src="arcade-ezgif.com-video-to-gif-converter.gif" width="350" alt="Arcade Console Gameplay" />
 </td>
 </tr>
 </table>
