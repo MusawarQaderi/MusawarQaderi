@@ -121,7 +121,7 @@ Mein analytisches Fundament habe ich durch ein Informatikstudium (Fokus auf theo
   </p>
 </td>
 <td width="45%" align="center" valign="middle">
-  <img src="arcade-ezgif.com-video-to-gif-converter.gif" width="350" alt="Arcade Console Gameplay" />
+  <img src="arcade-ezgif.com-video-to-gif-converter.gif" width="550" alt="Arcade Console Gameplay" />
 </td>
 </tr>
 </table>
